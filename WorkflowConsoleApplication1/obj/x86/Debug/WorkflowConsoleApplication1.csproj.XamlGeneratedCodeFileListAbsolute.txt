@@ -1,0 +1,4 @@
+obj\x86\Debug\_WorkflowConsoleApplication1.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\parikshitt23\Documents\Visual Studio 2015\Projects\WorkflowConsoleApplication1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_CompiledExpressionRoot.cs
